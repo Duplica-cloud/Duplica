@@ -2,13 +2,13 @@
 <h3 align="middle">Share what you see on your iPhone or iPad, be it from the other end of the office or halfway around the world.</h3>
 
 <p align="center">
-    <a href="https://duplica.cloud/m">
+    <a href="https://duplica.cloud/">
         <img src="https://img.shields.io/badge/-Download-ff9600?style=for-the-badge" alt="Download">
     </a>
     <a href="https://github.com/Duplica-cloud/Duplica/issues">
         <img src="https://img.shields.io/badge/-Bugs%20%2F%20Features-7057ff?style=for-the-badge" alt="Bugs/Features">
     </a>
-    <a href="Projects">
+    <a href="https://github.com/Duplica-cloud/Duplica/projects">
         <img src="https://img.shields.io/badge/-Road%20Map-blue?style=for-the-badge" alt="Road Map">
     </a>
 </p>
