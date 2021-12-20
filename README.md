@@ -1,8 +1,7 @@
 <h2 align="middle">Duplica</p>
 <h3 align="middle">Share what you see on your iPhone or iPad, be it from the other end of the office or halfway around the world.</h3>
 
-<p align="center">
-    
+<p align="center">    
     <a href="https://duplica.cloud/">
         <img src="https://img.shields.io/badge/-Official%20Website-F4133F?style=for-the-badge" alt="Download">
     </a>
