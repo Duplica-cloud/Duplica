@@ -35,7 +35,7 @@ With Duplica you can share what you see on your iPhone or iPad on a webbrowser
 <br/>
 
 <p align="center">
-<img src="https://github.com/Duplica-cloud/Duplica/blob/main/assets/duplica-remote-iphone-screen-sharing.png" width="400" >
+<img src="https://github.com/Duplica-cloud/Duplica/blob/main/assets/duplica-remote-iphone-screen-sharing.png" width="900" >
 </p>
 
 
