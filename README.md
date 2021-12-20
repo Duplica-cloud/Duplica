@@ -46,7 +46,7 @@ Duplica</p>
 <br/>
 <p align="center">    
 <div>
-   <h3 align="middle">How Duplica works</h3>
+   <h3 align="middle">Duplica in Action</h3>
    [![duplica-iphone-mirror-screen-video](https://img.youtube.com/vi/L9c5C64vJUI/0.jpg)](https://www.youtube.com/embed/L9c5C64vJUI)
 </div>
 </p>
