@@ -27,7 +27,6 @@ Duplica</p>
 </h4>
 <br/>
 <hr/>
-<br/>
 <p align="center">
 <h3 align="middle">FAQ</h3>
 <h4 align="middle">What is Duplica?</h4>
@@ -43,11 +42,18 @@ Duplica</p>
 </p>
 <br/>
 <hr/>
-<br/>
 <p align="center">    
 <div>
    <h3 align="middle">Duplica in Action</h3>
-   [![duplica-iphone-mirror-screen-video](https://img.youtube.com/vi/L9c5C64vJUI/0.jpg)](https://www.youtube.com/embed/L9c5C64vJUI)
+  
+<div align="center">
+      <a href="https://www.youtube.com/embed/L9c5C64vJUI">
+     <img 
+      src="https://img.youtube.com/vi/L9c5C64vJUI/0.jpg" 
+      alt="Everything Is AWESOME" 
+      style="width:100%;">
+      </a>
+    </div>
 </div>
 </p>
 <br/>
