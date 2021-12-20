@@ -17,8 +17,6 @@
     </a>
 </p>
 
-<br>
-
 <h4 align="middle">
     <u>
         This repository is currently being used for hosting the official issue 
@@ -41,10 +39,7 @@ The Duplica Link is the way to grant the secure access to your screen mirroring 
 With the Duplica Link the guest will be able to watch your shared screen in a web browser in real time. </div>
 </p>
 
-<br/>
-
 <hr/>
-
 
 <p align="center">
 <img src="https://github.com/Duplica-cloud/Duplica/blob/main/assets/duplica-remote-iphone-screen-sharing.png" width="700" >
