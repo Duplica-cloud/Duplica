@@ -28,8 +28,11 @@
 With Duplica you can share what you see on your iPhone or iPad on a webbrowser
 </pre>
 
-<br>
+<br/>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/L9c5C64vJUI/0.jpg)](https://www.youtube.com/watch?v=L9c5C64vJUI)
 
+
+<br>
 
 <h3 align="middle">Duplica is free with some limitations</h3>
 
