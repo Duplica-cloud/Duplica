@@ -47,10 +47,10 @@ Duplica</p>
    <h3 align="middle">Duplica in Action</h3>
   
 <div align="center">
-      <a href="https://www.youtube.com/embed/L9c5C64vJUI">
+      <a href="https://youtu.be/L9c5C64vJUI">
      <img 
       src="https://img.youtube.com/vi/L9c5C64vJUI/0.jpg" 
-      alt="Everything Is AWESOME" 
+      alt="Duplica" 
       style="width:100%;">
       </a>
     </div>
