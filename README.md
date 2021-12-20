@@ -29,12 +29,11 @@
 <hr/>
 
 <p align="center">
+<h3 align="middle">FAQ</h4>
 <h4 align="middle">What is Duplica?</h4>
 <div>
     Duplica is an iPhone and iPad app that allow to mirror and share your device's screen (and audio) to a guest in an easy and fast way. 
 </div>
-</p>
-<p align="center">
 <h4 align="middle">How does Duplica work?</h4>
 <div>
 Once the app is installed and started, a Duplica Link is generated.
