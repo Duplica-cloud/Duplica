@@ -1,11 +1,13 @@
-
-
 <p align="center">
    <img src="https://github.com/Duplica-cloud/Duplica/blob/main/assets/duplica-icon.png" width="100" height="100">
 </p>
-<h2 align="middle">
-Duplica</p>
-<h3 align="middle">Share what you see on your iPhone or iPad with a link</h3>
+<h1 align="middle">
+Duplica
+</h1>
+<h3 align="middle">
+Share what you see on your iPhone or iPad with a link
+</h3>   
+<br/>
 <p align="center">    
    <a target="_blank" href="https://duplica.cloud/">
    <img src="https://img.shields.io/badge/-Official%20Website-F4133F?style=for-the-badge" alt="Official Website">
@@ -17,8 +19,6 @@ Duplica</p>
    <img src="https://img.shields.io/badge/-Bugs%20%2F%20Features-7057ff?style=for-the-badge" alt="Bugs/Features">
    </a>
 </p>
-<br/>
-<br/>
 <h4 align="middle">
    <u>
    This repository is currently being used for hosting the official issue 
@@ -26,14 +26,13 @@ Duplica</p>
    </u>
 </h4>
 <br/>
-<hr/>
 <p align="center">
-<h3 align="middle">FAQ</h3>
-<h4 align="middle">What is Duplica?</h4>
+<h2>FAQ</h2>
+<h4>What is Duplica?</h4>
 <div>
    Duplica is an iOS app (iPhone and iPad) that allow to mirror and share your device's screen (and audio) to a guest in an easy and fast way. 
 </div>
-<h4 align="middle">How does Duplica work?</h4>
+<h4>How does Duplica work?</h4>
 <div>
    Once the app is installed and started, a Duplica Link is generated.
    The Duplica Link is the way to grant the secure access to your screen mirroring and must be shared with the guest.
@@ -41,10 +40,9 @@ Duplica</p>
 </div>
 </p>
 <br/>
-<hr/>
 <p align="center">    
 <div>
-   <h3 align="middle">Duplica in Action</h3>
+   <h2>Duplica in Action</h2>
   
 <div align="center">
       <a target="_blank" href="https://youtu.be/L9c5C64vJUI">
