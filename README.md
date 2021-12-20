@@ -22,10 +22,23 @@
 <h4 align="middle">
     <u>
         This repository is currently being used for hosting the official issue 
-        & bug tracker of Duplica (https://duplica.cloud)
+        & bug tracker of Duplica
     </u>
 </h4>
 
+<p align="center">
+<h4 align="middle">What is Duplica?</h4>
+<div>
+    Duplica is an iPhone and iPad app that allow to mirror and share your device's screen (and audio) to a guest in an easy and fast way. 
+</div>
+</p>
+<p align="center">
+<h4 align="middle">How does Duplica work?</h4>
+<div>
+Once the app is installed and started, a Duplica Link is generated.
+The Duplica Link is the way to grant the secure access to your screen mirroring and must be shared with the guest.
+With the Duplica Link the guest will be able to watch your shared screen in a web browser in real time. </div>
+</p>
 
 <br>
 <pre align="middle">
