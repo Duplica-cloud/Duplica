@@ -3,7 +3,7 @@
 <img src="https://github.com/Duplica-cloud/Duplica/blob/main/assets/duplica-icon.png" width="100" height="100">
 </p>
 <h2 align="middle">Duplica</p>
-<h3 align="middle">Share what you see on your iPhone or iPad, be it from the other end of the office or halfway around the world.</h3>
+<h3 align="middle">Share what you see on your iPhone or iPad with a link</h3>
 
 <p align="center">    
     <a target="_blank" href="https://duplica.cloud/">
