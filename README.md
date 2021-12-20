@@ -43,6 +43,9 @@ With the Duplica Link the guest will be able to watch your shared screen in a we
 
 <br/>
 
+<hr/>
+
+
 <p align="center">
 <img src="https://github.com/Duplica-cloud/Duplica/blob/main/assets/duplica-remote-iphone-screen-sharing.png" width="700" >
 </p>
