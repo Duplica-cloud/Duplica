@@ -47,7 +47,7 @@ Duplica</p>
    <h3 align="middle">Duplica in Action</h3>
   
 <div align="center">
-      <a href="https://youtu.be/L9c5C64vJUI">
+      <a target="_blank" href="https://youtu.be/L9c5C64vJUI">
      <img 
       src="https://img.youtube.com/vi/L9c5C64vJUI/0.jpg" 
       alt="Duplica" 
