@@ -1,5 +1,5 @@
 
-![Duplica.icon](https://github.com/Duplica-cloud/Duplica/blob/main/assets/duplica-icon.png  "Duplica Logo")
+![Duplica.icon](https://github.com/Duplica-cloud/Duplica/blob/main/assets/duplica-icon.png  "Duplica Logo" | width=250)
 <h2 align="middle">Duplica</p>
 <h3 align="middle">Share what you see on your iPhone or iPad, be it from the other end of the office or halfway around the world.</h3>
 
