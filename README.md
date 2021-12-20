@@ -24,8 +24,11 @@
 
 
 <br>
+<pre align="middle">
 With Duplica you can share what you see on your iPhone or iPad on a webbrowser
 </pre>
+
+<br>
 
 
 <h3 align="middle">Duplica is free with some limitations</h3>
