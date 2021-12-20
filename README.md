@@ -30,7 +30,10 @@ With Duplica you can share what you see on your iPhone or iPad on a webbrowser
 
 <br/>
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![duplica-iphone-mirror-screen-video](https://img.youtube.com/vi/L9c5C64vJUI/0.jpg)]()
+
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/embed/L9c5C64vJUI)
 
 
 <br>
