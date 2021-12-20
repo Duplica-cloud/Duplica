@@ -42,11 +42,6 @@ The Duplica Link is the way to grant the secure access to your screen mirroring 
 With the Duplica Link the guest will be able to watch your shared screen in a web browser in real time. </div>
 </p>
 
-<br>
-<pre align="middle">
-With Duplica you can share what you see on your iPhone or iPad on a webbrowser
-</pre>
-
 <br/>
 
 <p align="center">
