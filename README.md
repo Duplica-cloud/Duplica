@@ -26,6 +26,8 @@
     </u>
 </h4>
 
+<hr/>
+
 <p align="center">
 <h4 align="middle">What is Duplica?</h4>
 <div>
