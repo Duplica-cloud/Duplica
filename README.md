@@ -35,12 +35,13 @@ With Duplica you can share what you see on your iPhone or iPad on a webbrowser
 <br/>
 
 <p align="center">
-<img src="https://github.com/Duplica-cloud/Duplica/blob/main/assets/duplica-remote-iphone-screen-sharing.png" width="900" >
+<img src="https://github.com/Duplica-cloud/Duplica/blob/main/assets/duplica-remote-iphone-screen-sharing.png" width="700" >
 </p>
 
 
 <p align="center">
 
+    <video src='https://www.youtube.com/embed/L9c5C64vJUI' width=180/>
 [![duplica-iphone-mirror-screen-video](https://img.youtube.com/vi/L9c5C64vJUI/0.jpg)](https://www.youtube.com/embed/L9c5C64vJUI)
 
 </p>
