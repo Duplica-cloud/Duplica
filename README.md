@@ -3,7 +3,7 @@
 
 <p align="center">    
     <a target="_blank" href="https://duplica.cloud/">
-        <img src="https://img.shields.io/badge/-Official%20Website-F4133F?style=for-the-badge" alt="Download">
+        <img src="https://img.shields.io/badge/-Official%20Website-F4133F?style=for-the-badge" alt="Official Website">
     </a>
     <a target="_blank" href="https://apps.apple.com/it/app/id1552623883?ref=duplica.cloud">
         <img src="https://img.shields.io/badge/-Download-ff9600?style=for-the-badge" alt="Download">
@@ -48,7 +48,10 @@ With Duplica you can share what you see on your iPhone or iPad on a webbrowser
 </p>
 
 <p align="center">
-    <a href="https://www.producthunt.com/posts/duplica">
+        <a target="_blank" href="https://duplica.cloud/">
+        <img src="https://img.shields.io/badge/-Official%20Website-F4133F?style=for-the-badge" alt="Official Website">
+    </a>
+    <a arget="_blank" href="https://www.producthunt.com/posts/duplica">
         <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge" alt="Facebook">
     </a>
 </p>
