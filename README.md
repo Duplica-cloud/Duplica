@@ -2,10 +2,10 @@
 <h3 align="middle">Share what you see on your iPhone or iPad, be it from the other end of the office or halfway around the world.</h3>
 
 <p align="center">    
-    <a href="https://duplica.cloud/">
+    <a target="_blank" href="https://duplica.cloud/">
         <img src="https://img.shields.io/badge/-Official%20Website-F4133F?style=for-the-badge" alt="Download">
     </a>
-    <a href="https://apps.apple.com/it/app/id1552623883?ref=duplica.cloud">
+    <a target="_blank" href="https://apps.apple.com/it/app/id1552623883?ref=duplica.cloud">
         <img src="https://img.shields.io/badge/-Download-ff9600?style=for-the-badge" alt="Download">
     </a>
     <a href="https://github.com/Duplica-cloud/Duplica/issues">
