@@ -27,7 +27,6 @@ Share what you see on your iPhone or iPad with a link
 </h4>
 <br/>
 <p align="center">
-<h2>FAQ</h2>
 <h4>What is Duplica?</h4>
 <div>
    Duplica is an iOS app (iPhone and iPad) that allow to mirror and share the screen (and audio) of your device to a guest in an easy and fast way. 
