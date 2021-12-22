@@ -10,19 +10,19 @@ Share what you see on your iPhone or iPad with a link
 <br/>
 <p align="center">    
    <a target="_blank" href="https://duplica.cloud/">
-   <img src="https://img.shields.io/badge/-Official%20Website-F4133F?style=for-the-badge" alt="Official Website">
+   <img src="https://img.shields.io/badge/-Official%20Website-a277ff?style=for-the-badge" alt="Official Website">
    </a>
    <a target="_blank" href="https://apps.apple.com/it/app/id1552623883?ref=github">
-   <img src="https://img.shields.io/badge/-Download-ff9600?style=for-the-badge" alt="Download">
+   <img src="https://img.shields.io/badge/-Download-61ffca?style=for-the-badge" alt="Download">
    </a>
    <a href="https://github.com/Duplica-cloud/Duplica/issues">
-   <img src="https://img.shields.io/badge/-Bugs%20%2F%20Features-7057ff?style=for-the-badge" alt="Bugs/Features">
+   <img src="https://img.shields.io/badge/-Bugs%20%2F%20Features-f694ff?style=for-the-badge" alt="Bugs/Features">
    </a>
        <a href="https://github.com/Duplica-cloud/Duplica/wiki/FAQ">
-   <img src="https://img.shields.io/badge/-FAQ-a277ff?style=for-the-badge" alt="FAQ">
+   <img src="https://img.shields.io/badge/-FAQ-ffca85?style=for-the-badge" alt="FAQ">
    </a>
-    <a href="https://github.com/Duplica-cloud/Duplica/wiki/Troubleshootings">
-   <img src="https://img.shields.io/badge/-Troubleshooting-61ffca?style=for-the-badge" alt="Troubleshootings">
+    <a href="https://github.com/Duplica-cloud/Duplica/wiki/Troubleshooting">
+   <img src="https://img.shields.io/badge/-Troubleshooting-ff6767?style=for-the-badge" alt="Troubleshooting">
    </a>
 </p>
 <h4 align="middle">
@@ -68,7 +68,7 @@ Share what you see on your iPhone or iPad with a link
 </p>
 <p align="center">
    <a target="_blank" href="https://duplica.cloud/">
-   <img src="https://img.shields.io/badge/-Official%20Website-F4133F?style=for-the-badge" alt="Official Website">
+   <img src="https://img.shields.io/badge/-Official%20Website-a277ff?style=for-the-badge" alt="Official Website">
    </a>
    <a target="_blank" href="https://www.facebook.com/duplica.cloud">
    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge" alt="Facebook">
