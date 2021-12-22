@@ -18,6 +18,12 @@ Share what you see on your iPhone or iPad with a link
    <a href="https://github.com/Duplica-cloud/Duplica/issues">
    <img src="https://img.shields.io/badge/-Bugs%20%2F%20Features-7057ff?style=for-the-badge" alt="Bugs/Features">
    </a>
+       <a href="https://github.com/Duplica-cloud/Duplica/wiki/FAQ">
+   <img src="https://img.shields.io/badge/-FAQ-a277ff?style=for-the-badge" alt="FAQ">
+   </a>
+    <a href="https://github.com/Duplica-cloud/Duplica/wiki/Troubleshootings">
+   <img src="https://img.shields.io/badge/-Troubleshooting-61ffca?style=for-the-badge" alt="Troubleshootings">
+   </a>
 </p>
 <h4 align="middle">
    <u>
