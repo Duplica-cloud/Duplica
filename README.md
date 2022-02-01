@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/Duplica-cloud/Duplica/blob/main/assets/duplica-rounded-icon.png" width="100" height="100">
+   <img src="https://github.com/Duplica-cloud/Duplica/blob/main/assets/duplica-app-new.png" width="100" height="100">
 </p>
 <h1 align="middle">
 Duplica
